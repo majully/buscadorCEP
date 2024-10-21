@@ -1,4 +1,4 @@
-# Desafio Consumir Dados da API ViaCEP
+# Consumir Dados da API ViaCEP
 
 
 Projeto implementado durante curso Alura posto como desafio. Aplicação para consultar um endereço a partir de um CEP e salvar as informações em um arquivo json.
